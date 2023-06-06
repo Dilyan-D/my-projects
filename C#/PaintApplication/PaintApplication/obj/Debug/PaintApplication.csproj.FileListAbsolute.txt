@@ -1,0 +1,62 @@
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\PaintApplication.exe.config
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\PaintApplication.exe
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\PaintApplication.pdb
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.cache
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.CoreCompileInputs.cache
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.exe
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.pdb
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.CopyComplete
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Buffers.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Memory.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Numerics.Vectors.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Text.Encodings.Web.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Text.Json.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.ValueTuple.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Buffers.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Memory.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Numerics.Vectors.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Text.Encodings.Web.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Text.Json.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\bin\Debug\System.ValueTuple.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.frmPaint.resources
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.csproj.AssemblyReference.cache
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.frmPaint.resources
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.cache
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.exe
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.pdb
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\PaintApplication.exe.config
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\PaintApplication.exe
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\PaintApplication.pdb
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Buffers.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Memory.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Numerics.Vectors.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Text.Encodings.Web.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Text.Json.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.ValueTuple.dll
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Buffers.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Memory.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Numerics.Vectors.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Text.Encodings.Web.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Text.Json.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\bin\Debug\System.ValueTuple.xml
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.csproj.CoreCompileInputs.cache
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication - Copy\PaintApplication\obj\Debug\PaintApplication.csproj.CopyComplete
+F:\Projects\University\4th course (2022-2023)\Computer Graphics\CW\PaintApplication\PaintApplication\obj\Debug\PaintApplication.csproj.AssemblyReference.cache

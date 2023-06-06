@@ -1,0 +1,378 @@
+[
+  {
+    "name": "btnColorBlack",
+    "color": "Black"
+  },
+  {
+    "name": "btnColorDimGray",
+    "color": "DimGray"
+  },
+  {
+    "name": "btnColorGray",
+    "color": "Gray"
+  },
+  {
+    "name": "btnColorDarkGray",
+    "color": "DarkGray"
+  },
+  {
+    "name": "btnColorSilver",
+    "color": "Silver"
+  },
+  {
+    "name": "btnColorLightGray",
+    "color": "LightGray"
+  },
+  {
+    "name": "btnColorGainsboro",
+    "color": "Gainsboro"
+  },
+  {
+    "name": "btnColorWhite",
+    "color": "White"
+  },
+  {
+    "name": "btnColorMaroon",
+    "color": "Maroon"
+  },
+  {
+    "name": "btnColorDarkRed",
+    "color": "DarkRed"
+  },
+  {
+    "name": "btnColorRed",
+    "color": "Red"
+  },
+  {
+    "name": "btnColorBrown",
+    "color": "Brown"
+  },
+  {
+    "name": "btnColorFirebrick",
+    "color": "Firebrick"
+  },
+  {
+    "name": "btnColorIndianRed",
+    "color": "IndianRed"
+  },
+  {
+    "name": "btnColorLightCoral",
+    "color": "LightCoral"
+  },
+  {
+    "name": "btnColorRosyBrown",
+    "color": "RosyBrown"
+  },
+  {
+    "name": "btnColorDarkSalmon",
+    "color": "DarkSalmon"
+  },
+  {
+    "name": "btnColorLightSalmon",
+    "color": "LightSalmon"
+  },
+  {
+    "name": "btnColorCoral",
+    "color": "Coral"
+  },
+  {
+    "name": "btnColorOrangeRed",
+    "color": "OrangeRed"
+  },
+  {
+    "name": "btnColorSienna",
+    "color": "Sienna"
+  },
+  {
+    "name": "btnColorChocolate",
+    "color": "Chocolate"
+  },
+  {
+    "name": "btnColorSaddleBrown",
+    "color": "SaddleBrown"
+  },
+  {
+    "name": "btnColorSandyBrown",
+    "color": "SandyBrown"
+  },
+  {
+    "name": "btnColorPeachPuff",
+    "color": "PeachPuff"
+  },
+  {
+    "name": "btnColorPeru",
+    "color": "Peru"
+  },
+  {
+    "name": "btnColorDarkOrange",
+    "color": "DarkOrange"
+  },
+  {
+    "name": "btnColorBurlyWood",
+    "color": "BurlyWood"
+  },
+  {
+    "name": "btnColorTan",
+    "color": "Tan"
+  },
+  {
+    "name": "btnColorNavajoWhite",
+    "color": "NavajoWhite"
+  },
+  {
+    "name": "btnColorOrange",
+    "color": "Orange"
+  },
+  {
+    "name": "btnColorWheat",
+    "color": "Wheat"
+  },
+  {
+    "name": "btnColorDarkGoldenrod",
+    "color": "DarkGoldenrod"
+  },
+  {
+    "name": "btnColorGoldenrod",
+    "color": "Goldenrod"
+  },
+  {
+    "name": "btnColorGold",
+    "color": "Gold"
+  },
+  {
+    "name": "btnColorDarkKhaki",
+    "color": "DarkKhaki"
+  },
+  {
+    "name": "btnColorKhaki",
+    "color": "Khaki"
+  },
+  {
+    "name": "btnColorOlive",
+    "color": "Olive"
+  },
+  {
+    "name": "btnColorYellow",
+    "color": "Yellow"
+  },
+  {
+    "name": "btnColorOliveDrab",
+    "color": "OliveDrab"
+  },
+  {
+    "name": "btnColorYellowGreen",
+    "color": "YellowGreen"
+  },
+  {
+    "name": "btnColorDarkOliveGreen",
+    "color": "DarkOliveGreen"
+  },
+  {
+    "name": "btnColorGreenYellow",
+    "color": "GreenYellow"
+  },
+  {
+    "name": "btnColorChartreuse",
+    "color": "Chartreuse"
+  },
+  {
+    "name": "btnColorDarkSeaGreen",
+    "color": "DarkSeaGreen"
+  },
+  {
+    "name": "btnColorLightGreen",
+    "color": "LightGreen"
+  },
+  {
+    "name": "btnColorForestGreen",
+    "color": "ForestGreen"
+  },
+  {
+    "name": "btnColorLimeGreen",
+    "color": "LimeGreen"
+  },
+  {
+    "name": "btnColorDarkGreen",
+    "color": "DarkGreen"
+  },
+  {
+    "name": "btnColorGreen",
+    "color": "Green"
+  },
+  {
+    "name": "btnColorLime",
+    "color": "Lime"
+  },
+  {
+    "name": "btnColorSeaGreen",
+    "color": "SeaGreen"
+  },
+  {
+    "name": "btnColorSpringGreen",
+    "color": "SpringGreen"
+  },
+  {
+    "name": "btnColorMediumAquamarine",
+    "color": "MediumAquamarine"
+  },
+  {
+    "name": "btnColorAquamarine",
+    "color": "Aquamarine"
+  },
+  {
+    "name": "btnColorTurquoise",
+    "color": "Turquoise"
+  },
+  {
+    "name": "btnColorDarkTurquoise",
+    "color": "DarkTurquoise"
+  },
+  {
+    "name": "btnColorLightSeaGreen",
+    "color": "LightSeaGreen"
+  },
+  {
+    "name": "btnColorTeal",
+    "color": "Teal"
+  },
+  {
+    "name": "btnColorDarkCyan",
+    "color": "DarkCyan"
+  },
+  {
+    "name": "btnColorCyan",
+    "color": "Cyan"
+  },
+  {
+    "name": "btnColorAqua",
+    "color": "Aqua"
+  },
+  {
+    "name": "btnColorDeepSkyBlue",
+    "color": "DeepSkyBlue"
+  },
+  {
+    "name": "btnColorSteelBlue",
+    "color": "SteelBlue"
+  },
+  {
+    "name": "btnColorDodgerBlue",
+    "color": "DodgerBlue"
+  },
+  {
+    "name": "btnColorRoyalBlue",
+    "color": "RoyalBlue"
+  },
+  {
+    "name": "btnColorMidnightBlue",
+    "color": "MidnightBlue"
+  },
+  {
+    "name": "btnColorNavy",
+    "color": "Navy"
+  },
+  {
+    "name": "btnColorDarkBlue",
+    "color": "DarkBlue"
+  },
+  {
+    "name": "btnColorMediumBlue",
+    "color": "MediumBlue"
+  },
+  {
+    "name": "btnColorBlue",
+    "color": "Blue"
+  },
+  {
+    "name": "btnColorSlateBlue",
+    "color": "SlateBlue"
+  },
+  {
+    "name": "btnColorDarkSlateBlue",
+    "color": "DarkSlateBlue"
+  },
+  {
+    "name": "btnColorMediumSlateBlue",
+    "color": "MediumSlateBlue"
+  },
+  {
+    "name": "btnColorMediumPurple",
+    "color": "MediumPurple"
+  },
+  {
+    "name": "btnColorBlueViolet",
+    "color": "BlueViolet"
+  },
+  {
+    "name": "btnColorIndigo",
+    "color": "Indigo"
+  },
+  {
+    "name": "btnColorDarkOrchid",
+    "color": "DarkOrchid"
+  },
+  {
+    "name": "btnColorDarkViolet",
+    "color": "DarkViolet"
+  },
+  {
+    "name": "btnColorMediumOrchid",
+    "color": "MediumOrchid"
+  },
+  {
+    "name": "btnColorPlum",
+    "color": "Plum"
+  },
+  {
+    "name": "btnColorViolet",
+    "color": "Violet"
+  },
+  {
+    "name": "btnColorPurple",
+    "color": "Purple"
+  },
+  {
+    "name": "btnColorDarkMagenta",
+    "color": "DarkMagenta"
+  },
+  {
+    "name": "btnColorMagenta",
+    "color": "Magenta"
+  },
+  {
+    "name": "btnColorFuchsia",
+    "color": "Fuchsia"
+  },
+  {
+    "name": "btnColorOrchid",
+    "color": "Orchid"
+  },
+  {
+    "name": "btnColorMediumVioletRed",
+    "color": "MediumVioletRed"
+  },
+  {
+    "name": "btnColorDeepPink",
+    "color": "DeepPink"
+  },
+  {
+    "name": "btnColorHotPink",
+    "color": "HotPink"
+  },
+  {
+    "name": "btnColorPaleVioletRed",
+    "color": "PaleVioletRed"
+  },
+  {
+    "name": "btnColorCrimson",
+    "color": "Crimson"
+  },
+  {
+    "name": "btnColorPink",
+    "color": "Pink"
+  },
+  {
+    "name": "btnColorLightPink",
+    "color": "LightPink"
+  }
+]
