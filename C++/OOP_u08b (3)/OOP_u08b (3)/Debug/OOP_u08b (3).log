@@ -1,0 +1,5 @@
+﻿  OOP_u08b (3).cpp
+D:\Projects\C++ Projects\Visual Studio\Year 1 of Uni\2nd Semester\CORONAVIRUS\OOP_u08b (3)\OOP_u08b (3)\OOP_u08b (3).cpp(96,15): warning C4101: 'm': unreferenced local variable
+D:\Projects\C++ Projects\Visual Studio\Year 1 of Uni\2nd Semester\CORONAVIRUS\OOP_u08b (3)\OOP_u08b (3)\OOP_u08b (3).cpp(96,18): warning C4101: 'y': unreferenced local variable
+D:\Projects\C++ Projects\Visual Studio\Year 1 of Uni\2nd Semester\CORONAVIRUS\OOP_u08b (3)\OOP_u08b (3)\OOP_u08b (3).cpp(96,12): warning C4101: 'd': unreferenced local variable
+  OOP_u08b (3).vcxproj -> D:\Projects\C++ Projects\Visual Studio\Year 1 of Uni\2nd Semester\CORONAVIRUS\OOP_u08b (3)\Debug\OOP_u08b (3).exe
