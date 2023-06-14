@@ -1,2 +1,2 @@
-# Dilyan Dyankov's software development
-Contains all types of programs of mine (some unfinished), developed throughout the years.
+# Dilyan Dyankov's software development at Uni Ruse
+Contains some of my projects during my education at University of Ruse.
