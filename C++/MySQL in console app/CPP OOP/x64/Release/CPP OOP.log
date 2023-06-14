@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (CPP OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  MySQL in console app.cpp
-D:\Projects\C++ Projects\Visual Studio\CPP OOP\CPP OOP\MySQL in console app.cpp(3,10): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory
